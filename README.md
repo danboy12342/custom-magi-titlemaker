@@ -3,7 +3,7 @@ an site to make custom screens of the MAGI system form evangelion; inspired by t
 
 
 heres how to use it;
-![MAGI System Banner]([https://raw.githubusercontent.com/itorr/magi/master/banner.png](https://static.wikia.nocookie.net/evangelion/images/2/2d/Ireul_Hacking_Magi.png/revision/latest?cb=20120311022755))
+![MAGI System Banner]([https://raw.githubusercontent.com/itorr/magi/master/banner.png](https://static.wikia.nocookie.net/evangelion/images/2/2d/Ireul_Hacking_Magi.png/revision/latest?cb=20120311022755)
 
 # 警告: NERV - TOP SECRET
 
